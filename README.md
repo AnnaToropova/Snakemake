@@ -3,7 +3,7 @@
 ## 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/<USERNAME>/snakemake.git
+git clone https://github.com/https://github.com/AnnaToropova/Snakemake.git
 ```
 
 ### Перейти в каталог проекта:
